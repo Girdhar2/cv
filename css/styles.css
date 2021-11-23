@@ -1,0 +1,19 @@
+body{
+  background-color: #CDF2CA;
+  align-content: center;
+}
+h1{
+  color: #32502E;
+  font-family: Century Gothic;
+}
+
+h3{
+  color: #32502E;
+}
+hr{
+  border-color: silver;
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 10px;
+}
